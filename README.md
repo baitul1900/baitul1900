@@ -2,7 +2,6 @@
 
 I'm a Developer based in **Bangladesh**, currently working with **Ideatedlab**. I specialize in building responsive web pages and catering services platforms.
 
-- 🔭 I’m currently working on **eventofly** and **Catering-service**
 - 🏢 Organization: **Ideatedlab**
 - 📍 Location: **Bangladesh**
 
