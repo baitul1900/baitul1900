@@ -1,26 +1,43 @@
 # 👋 Hi there, I'm Antu (MD Baitul A.)
 
-I’m a **Full-Stack MERN Developer** from **Bangladesh**, passionate about building modern, responsive, and user-centric web applications. I love turning ideas into real products using **React**, **Node.js**, **Express**, **MongoDB**, and clean architecture.
+I’m a **Full-Stack MERN Developer** from **Bangladesh**, experienced in building **web and mobile applications** using **React, Next.js, React Native, Node.js, Express, and MongoDB**.
 
-📍 Currently based in **Bangladesh**  
-💼 Working at **Ideatedlab**  
-🌐 Open to Remote & Hybrid opportunities
+I focus on writing clean, scalable code and building real-world production-ready applications with modern UI/UX and efficient state management.
+
+📍 Location: **Bangladesh**  
+💼 Organization: **Ideatedlab**  
+🌍 Open to Remote / Hybrid Opportunities
 
 ---
 
 ## 🧠 About Me
 
-As a full-stack developer, I build both frontend and backend systems with a focus on performance, scalability, and user experience. I enjoy solving complex problems, crafting clean UIs with React/Next.js, and building backend services with Node.js/Express integrating with databases like MongoDB.
+I work across the full stack—designing responsive frontends, building REST APIs, and integrating databases.  
+I also develop **cross-platform mobile apps using React Native** and **SEO-friendly web apps using Next.js**.
+
+I enjoy learning new technologies, optimizing performance, and collaborating on meaningful products.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Frontend & Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/React-JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### Backend
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Others
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,23 +47,16 @@ As a full-stack developer, I build both frontend and backend systems with a focu
 
 ---
 
-## 🚀 Projects You Should Check
+## 🚀 Featured Projects
 
-Here are some of the repositories from my GitHub you can explore:
+Here are some projects from my GitHub that demonstrate my skills:
 
-**🔗 Frontend & Full-Stack Projects**
-- **Leet-code-practice** – Practice algorithms and JavaScript solutions :contentReference[oaicite:1]{index=1}  
-- **Baitul** – A developer portfolio/project showcase :contentReference[oaicite:2]{index=2}  
-- **travelpage** – A responsive travel UI page :contentReference[oaicite:3]{index=3}  
-- **newwork** – UI experiment / design project :contentReference[oaicite:4]{index=4}  
-- **eventofly** – Event landing page :contentReference[oaicite:5]{index=5}
+- **Portfolio Website** – Responsive developer portfolio built with modern UI practices  
+- **Event Landing Page** – Clean UI, responsive design, optimized performance  
+- **Travel Website UI** – Fully responsive frontend layout  
+- **JavaScript & LeetCode Practice** – Problem solving & JS fundamentals  
 
-These projects demonstrate my ability to:  
-✔ Build responsive and modern UI interfaces  
-✔ Use React and core JS fundamentals  
-✔ Structure clean component-based code
-
-(*Visit my GitHub repositories section for live demos & code samples.*) :contentReference[oaicite:6]{index=6}
+👉 Check out my repositories for full source code and live demos.
 
 ---
 
@@ -61,8 +71,10 @@ These projects demonstrate my ability to:
 
 ## 📫 Let’s Connect
 
-I’m always excited to collaborate on interesting projects or connect with other developers!
+🔗 GitHub: https://github.com/baitul1900  
+📧 Email: your-email@example.com  
+💼 LinkedIn: your-linkedin-url
 
-🔗 https://github.com/baitul1900  
-📧 [Add your email here]  
-💼 LinkedIn: [Add your LinkedIn profile here]
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baitul1900&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
