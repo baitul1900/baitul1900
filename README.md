@@ -72,8 +72,8 @@ Here are some projects from my GitHub that demonstrate my skills:
 ## 📫 Let’s Connect
 
 🔗 GitHub: https://github.com/baitul1900  
-📧 Email: your-email@example.com  
-💼 LinkedIn: your-linkedin-url
+📧 Email: baitulamin1900@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/baitulamin1919/
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=baitul1900&label=Profile%20Views&color=0e75b6&style=flat" />
