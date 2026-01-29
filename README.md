@@ -24,15 +24,6 @@ I'm a Developer based in **Bangladesh**, currently working with **Ideatedlab**. 
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[eventofly](https://github.com/baitul1900/eventofly)** | An event management page showcasing layout and design skills. | HTML |
-| **[Catering-service](https://github.com/baitul1900/Catering-service)** | A service-oriented website for catering businesses. | HTML |
-| **[newwork](https://github.com/baitul1900/newwork)** | Frontend styling and layout experiments. | SCSS |
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=baitul1900&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
